@@ -1,7 +1,7 @@
 {
     "name": "rareloop/psr7-server-request-extension",
     "require": {
-        "psr/http-message": "^1.0"
+        "psr/http-message": "^2"
     },
     "require-dev": {
         "laminas/laminas-diactoros": "^3.6",
